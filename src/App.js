@@ -39,8 +39,6 @@ class App extends React.Component {
           currentUser: null
         })
       }
-
-      console.log(this.state);
     });
   }
 
