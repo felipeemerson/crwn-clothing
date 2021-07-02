@@ -38,7 +38,6 @@ class App extends React.Component {
         setCurrentUser(null);
       }
     });
-
   }
 
   componentWillUnmount() {
